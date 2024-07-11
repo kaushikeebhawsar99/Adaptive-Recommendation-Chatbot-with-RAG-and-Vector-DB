@@ -61,7 +61,3 @@ Examples include:
 - **Irrelevant/Out-of-Scope Queries**: "_Why is the sky blue?_"
 - **Misspelled Queries**: "_men cliothin recommenations?_"
 
-### Hosted Web App
-
-Interact with FashionBot 🤖 online here:
-[FashionBot](https://fashionchatbot.streamlit.app/)
