@@ -64,4 +64,4 @@ Examples include:
 ### Hosted Web App
 
 Interact with FashionBot 🤖 online here:
-[FashionBot](https://fashionbot.streamlit.app)
+[FashionBot](https://fashionchatbot.streamlit.app/)
