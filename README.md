@@ -1,6 +1,8 @@
 # 🤖FashionBot: Your AI Style Companion 👗👠
 ----------------------------------------------------------
-
+###Youtube Tutorial Link: https://youtu.be/de6_BjEVWZo
+###Report & Other Document: Available in github Repo [FashionBot_Report.pdf & FashionBot_ppt.pdf]
+----------------------------------------------------------
 ## What is FashionBot?
 FashionBot 🤖 is a sophisticated chatbot designed to provide personalized fashion advice. Leveraging a user's natural language queries, it offers recommendations on outfits, accessories, and styling tips directly from a curated fashion knowledge base.
 ## How It Is Built?
