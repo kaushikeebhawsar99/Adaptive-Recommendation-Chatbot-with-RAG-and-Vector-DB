@@ -29,6 +29,17 @@ Install the necessary libraries from the requirements.txt file:
 ```bash
 pip install -r requirements.txt
 ```
+**NOTE:**
+If there is issue with Chroma and Pysqlite3 installation, follow below steps 
+- Step1: Download Python 3.10 version and then install chromadb using below command
+```bash
+pip install chromadb
+``` 
+- Step2: For pysqlite3 installation keep the wheel file (available in Github repo) in your project directory and run below command
+```bash
+pip install pysqlite3_wheels-0.5.0-cp310-cp310-win_amd64
+```
+
 ### Step 2: Generate and Store Embeddings
 There are two Python files: `embeddings_generator.py` and `WaLL-E.py`.
 
